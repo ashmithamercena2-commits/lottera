@@ -1,0 +1,61 @@
+.container-fluid1
+{
+    background-color:white;
+    text-align: center;
+    color: #d87093
+
+}
+
+.col1
+{
+color: #ca1652;
+text-align:center
+}
+
+
+.flex-container
+{
+  background-color:rgb(59, 22, 22);
+  height: 70px;
+  padding-top: 30px;
+
+
+}
+
+ .buttons {
+      display: flex;
+
+      margin: 5px 0 5px;
+    }
+
+    .btn {
+      padding: 12px 12px;
+      border: none;
+      border-radius: 2px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 0.9em;
+      transition: background-color 0.3s ease;
+    }
+
+    
+
+    .containerfoot-fluid
+    {
+      background-color: rgb(33, 33, 66);
+      color: black;
+    }
+
+    .caro
+    {
+      text-align: center;
+      justify-content: center;
+      color: #ca1652;
+      
+    }
+
+    .rounded-circle
+    {
+display: inline;
+margin: 150px 250px 230px 20px;
+    }
